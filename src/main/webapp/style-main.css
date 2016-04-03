@@ -1,0 +1,134 @@
+@import url('http://fonts.googleapis.com/css?family=Roboto');
+body 
+{
+    background-color: white;
+}
+
+.header{
+	font-family: Roboto;
+    list-style-type: none;
+    margin: -8px;
+    padding: 5px;
+    overflow: hidden;
+    background-color: #00a3ef;
+	  
+}
+
+li {
+    float: left;
+   
+}
+
+
+.header-li:last-child {
+    border-right: none;
+}
+
+
+
+.header-li a {
+	font-family: Roboto;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 12px 20px;
+	font-size: 23px;
+	
+	
+    text-decoration: none;
+}
+
+.btn0:hover {
+   color: #d1ecff;
+	
+}
+.btn1 {
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  font-family: Roboto;
+  color: #ffffff;
+  font-size: 16px !important;
+  background: #00a3ef;
+  padding: 13px 20px 13px 20px !important;
+  border: solid #ffffff 1px ;
+  text-decoration: none;
+  margin-right: 100px;
+}
+
+.btn1:hover {
+  background: #006aed;
+  text-decoration: none;
+}
+
+.btn2 {
+	font-family: Roboto;
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px; 
+  color: #ffffff;
+  font-size: 16px !important;
+  background: #006aed;
+   padding: 13px 20px 13px 20px !important;
+  border:  1px;
+  text-decoration: none;
+  margin-right:10px;
+}
+
+.btn2:hover {
+  background: #1500b5;
+  text-decoration: none;
+}
+.logo
+{
+	width:23% !important;
+	height:23% !important;
+	
+	
+	
+}
+.picc{
+	margin-top: 8px;
+
+}
+.pic1{
+	
+	width: 101.2%;
+
+	
+}
+.box1{
+	
+	margin-top: -500px;
+	margin-left: 600px;
+	
+}
+.btn3 {
+	font-family: Roboto;
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  color: #ffffff;
+  font-size: 16px !important;
+  background: #80FFFFFF;
+  padding: 20px 20px 20px 20px !important;
+  border: solid #ffffff 1px !important;
+  border:  1px;
+  text-decoration: none;
+  margin-right:10px;
+}
+
+.btn3:hover {
+  background: #00a3ef;
+  
+}
+
+.h1{
+	font-family: Roboto;
+	color: #0f6faa;
+	font-size: 39px;
+	margin-left: 540px;
+	margin-top:-100px;
+
+	
+}

@@ -1,0 +1,14 @@
+com\examplej2eeapp\services\UserAuthenticationProviderService.class
+com\examplej2eeapp\domain\UserEntity.class
+com\examplej2eeapp\gmap\Markers.class
+com\examplej2eeapp\commons\dao\GenericJpaDao.class
+com\examplej2eeapp\gmap\Test.class
+com\examplej2eeapp\services\impl\UserServiceImpl.class
+com\examplej2eeapp\services\UserService.class
+com\examplej2eeapp\dao\UserDao.class
+com\examplej2eeapp\gmap\DataBase.class
+com\examplej2eeapp\commons\dao\GenericDao.class
+com\examplej2eeapp\ui\utils\UIUtils.class
+com\examplej2eeapp\services\impl\UserAuthenticationProviderServiceImpl.class
+com\examplej2eeapp\commons\domain\BaseEntity.class
+com\examplej2eeapp\dao\UserJpaDao.class
